@@ -1,4 +1,4 @@
-# Diwali-Sales-Analysis-Using-Python
+# Diwali-Sales-Data Analysis-Using-Python
 
 Objective: Analyzed data using Python for insights.
 
